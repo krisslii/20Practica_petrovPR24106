@@ -1,4 +1,4 @@
-package com.example.pracitca20_pavlenko
+package com.example.pracitca20_petrov
 
 import com.google.firebase.database.IgnoreExtraProperties
 
