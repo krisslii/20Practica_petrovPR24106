@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.pracitca20_pavlenko"
+    namespace = "com.example.pracitca20_petrov"
     compileSdk {
         version = release(36) {
             minorApiLevel = 1
@@ -13,7 +13,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.example.pracitca20_pavlenko"
+        applicationId = "com.example.pracitca20_petrov"
         minSdk = 26
         targetSdk = 36
         versionCode = 1
